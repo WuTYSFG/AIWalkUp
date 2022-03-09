@@ -1,2 +1,2 @@
 # Parkinson
-a server side for etecting Parkinson's disease
+server side for detecting Parkinson's disease
